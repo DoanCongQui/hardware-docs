@@ -24,6 +24,9 @@ Sẽ thấy cổng serial VD “USB-SERIAL CH340 (COM10)”.
 </p>
 
 ## *3. Tạo Session Serial trong MobaXterm*
+
+Mở ứng dụng [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
+
 1.	Mở `MobaXterm` → `Session`
 2.	Chọn tab `Serial`
 3.	Điền:
