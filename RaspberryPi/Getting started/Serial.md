@@ -20,7 +20,7 @@ Sẽ thấy cổng serial VD “USB-SERIAL CH340 (COM10)”.
 `Chú ý`: Nếu không thấy kiểm tra lại kết nối dây trên pi và usb ttl xem đúng hay chưa
 
 <p align="center">
-  <img src="images/manager_uart.png" width="400">
+  <img src="images/manager_uart.png" width="500">
 </p>
 
 ## *3. Tạo Session Serial trong MobaXterm*
@@ -32,7 +32,7 @@ Sẽ thấy cổng serial VD “USB-SERIAL CH340 (COM10)”.
 - Chọn `Bookmark settings` chọn `Session name`: để đổi tên session
 
 <p align="center">
-  <img src="images/mobax_uart.png" width="400">
+  <img src="images/mobax_uart.png" width="500">
 </p>
 
 ## *4. Login vào Pi*
@@ -72,13 +72,13 @@ Nếu chưa có thì làm với lệnh sau:
 sudo nmtui
 ```
 <p align="center">
-  <img src="images/wifi_1_uart.png" width="400">
+  <img src="images/wifi_1_uart.png" width="500">
 </p>
 
 Chọn `Activate a connection` sau đó lựa chọn mạng mình muốn r nhập passwd giống như hình.
 
 <p align="center">
-  <img src="images/wifi_2_uart.png" width="400">
+  <img src="images/wifi_2_uart.png" width="500">
 </p>
 
 Sau khi nhập passwd nếu thành công thì hãy `Quit` thoát ra và kiểm tra lại 1 lần nữa có hiển thị ip hay không bằng lệnh `ifconfig`
