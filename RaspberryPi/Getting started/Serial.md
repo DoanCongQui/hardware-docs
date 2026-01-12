@@ -53,7 +53,7 @@ Sau khi tạo session kế tiếp nhấp đúp vào biều tượng vừa tạo 
 </table>
 
 <p align="center">
-  <img src="images/login_uart.png" width="400">
+  <img src="images/login_uart.png" width="500">
 </p>
 
 ## *5. Setup networking*
@@ -64,7 +64,7 @@ ifconfig
 ```
 
 <p align="center">
-  <img src="images/login_uart.png" width="400">
+  <img src="images/login_uart.png" width="500">
 </p>
 
 Nếu chưa có thì làm với lệnh sau:
