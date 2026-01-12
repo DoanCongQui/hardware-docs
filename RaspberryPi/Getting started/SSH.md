@@ -2,6 +2,8 @@
 
 *`Chú ý:`* **Điều kiện để connect được tới pi là phải sử dụng chung 1 đường truyền mạng.**
 
+[Youtobe hướng dẫn setup](https://www.youtube.com/watch?v=jvi1nmKK81Y)
+
 ## *1. Connect ssh vs MobaXterm*
 
 Mở ứng dụng [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)

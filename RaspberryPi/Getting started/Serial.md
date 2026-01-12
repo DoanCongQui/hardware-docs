@@ -86,6 +86,14 @@ Chọn `Activate a connection` sau đó lựa chọn mạng mình muốn r nhậ
 
 Sau khi nhập passwd nếu thành công thì hãy `Quit` thoát ra và kiểm tra lại 1 lần nữa có hiển thị ip hay không bằng lệnh `ifconfig`
 
-*Khi đã có IP nếu muốn kết nói bằng wifi thông qua `SSH` hãy truy cập đường link sau:*
+**`Chú ý:`**
 
-[Connect SSH](https://github.com/DoanCongQui/hardware-docs/blob/main/RaspberryPi/Getting%20started/SSH.md)
+- *Khi đã có IP nếu muốn kết nói bằng wifi thông qua `SSH` hãy truy cập đường link sau:*
+
+  [Connect SSH](https://github.com/DoanCongQui/hardware-docs/blob/main/RaspberryPi/Getting%20started/SSH.md)
+
+   [Youtobe hướng dẫn setup](https://www.youtube.com/watch?v=jvi1nmKK81Y)
+
+- *Điều khiển pi nếu không có màn hình: sử dụng [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)*
+
+  [Setup VNC](https://youtu.be/uKQc0Ijeyq8?si=xrDaB0LCxr-VJph5)
