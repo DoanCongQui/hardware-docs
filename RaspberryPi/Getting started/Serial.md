@@ -1,4 +1,4 @@
-<h1 align="center" >Setup remote raspberrry pi with serial </h1>
+<h1 align="center" >Remote setup of a Raspberry Pi via serial </h1>
 
 ## *1. Setup phần cứng*
 
